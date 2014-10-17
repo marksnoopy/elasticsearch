@@ -5,5 +5,5 @@ elasticsearch
 
 话不多数，我们开始吧！
 
-- [es 安装、启动、停止](https://www.evernote.com/shard/s138/sh/790128d2-ab7b-4dfa-8f83-d3eed8d3caca/94d52cbcfb17f27982e8ffb0e40d858c)
+- [es 安装、启动、停止](https://www.evernote.com/shard/s138/sh/790128d2-ab7b-4dfa-8f83-d3eed8d3caca/94d52cbcfb17f27982e8ffb0e40d858c) **New**
 - es 中的 cluster 、shard 、replica 的含义
